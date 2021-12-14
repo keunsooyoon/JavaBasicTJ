@@ -1,6 +1,5 @@
 package j20211210;
 
-import javax.sql.rowset.spi.SyncResolver;
 
 public class TernaryExam {
 
